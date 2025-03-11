@@ -81,7 +81,7 @@ I am a Fresh Graduate Software Engineer based in Montreal.
 
 ### :fire: My GitHub Stats :
 
-<a>  <img height=200 align="center" src="![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=christa-ux&theme=nord_bright)"/> </a>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=christa-ux&theme=nord_bright) 
 
 <a href="https://github.com/christa-ux/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=christa-ux" />
