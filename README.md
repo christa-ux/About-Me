@@ -96,6 +96,7 @@ I am a Fresh Graduate Software Engineer based in Montreal.
   
 </div>
 
-
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
