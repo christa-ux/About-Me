@@ -8,18 +8,12 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christa-abouarraj)
 [![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)](https://www.goodreads.com/user/show/145871938-christa)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christa.arraj@gmail.com)
-
 </h1>
-
-<!-- <h1 align="center"> Hello World! </h1> 
-<h3 align="center">Software Engineer based in Montreal</h3>  -->
 
 ### :woman_technologist: About Me :
 I am a Fresh Graduate Software Engineer based in Montreal.
 - 🌱I’m interested in Web development, Cybersecurity, and Consulting.
-
 - :chart_with_upwards_trend: I love to build cool projects and learn new skills .
-
 - :musical_keyboard: In my free time, I play the piano.
 
 ### Programming Languages :
@@ -85,18 +79,18 @@ I am a Fresh Graduate Software Engineer based in Montreal.
  -->
 </div>
 
+### :fire: My GitHub Stats :
+
+<a>  <img height=200 align="center" src="![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=christa-ux&theme=nord_bright)"/> </a>
+
+<a href="https://github.com/christa-ux/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=christa-ux" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=christa-ux&hide_progress=true&langs_count=8&card_width=320" />
+</a>
 
 
-### :fire: My Stats :
-<div>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christa-ux&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=christa-ux&theme=rose)](https://git.io/streak-stats)
-
-  
-</div>
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-
